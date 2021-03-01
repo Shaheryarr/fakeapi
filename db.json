@@ -8,5 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "activated": true
+  "activated": {
+    "jahanzaib": true
+  }
 }
